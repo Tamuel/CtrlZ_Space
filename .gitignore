@@ -180,3 +180,9 @@
 *.pro
 *.pri
 *.kdev4
+
+# Custom Ingnore Path by. YDK
+Binaries/
+Intermediate/
+Saved/
+
