@@ -8,6 +8,7 @@
   </Properties>
   <BuildProducts>
     <BuildProduct Path="$(ProjectDir)/Binaries/Mac/UE4Editor-Space.dylib" Type="DynamicLibrary" />
+    <BuildProduct Path="$(ProjectDir)/Binaries/Mac/UE4Editor-Space.dsym" Type="SymbolFile" />
   </BuildProducts>
   <RuntimeDependencies />
   <bRequireDependenciesToExist>true</bRequireDependenciesToExist>
