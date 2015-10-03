@@ -8,6 +8,7 @@
   </Properties>
   <BuildProducts>
     <BuildProduct Path="$(ProjectDir)/Binaries/Mac/Space.app/Contents/MacOS/Space" Type="Executable" />
+    <BuildProduct Path="$(ProjectDir)/Binaries/Mac/Space.app/Contents/MacOS/Space.dsym" Type="SymbolFile" />
     <BuildProduct Path="$(ProjectDir)/Binaries/Mac/Space.app/Contents/MacOS/libogg.dylib" Type="DynamicLibrary" />
     <BuildProduct Path="$(ProjectDir)/Binaries/Mac/Space.app/Contents/MacOS/libvorbis.dylib" Type="DynamicLibrary" />
     <BuildProduct Path="$(ProjectDir)/Binaries/Mac/Space.app/Contents/Resources/RadioEffectUnit.component/Contents/Info.plist" Type="RequiredResource" />
