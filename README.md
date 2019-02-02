@@ -1,4 +1,4 @@
-# CtrlZ_Space
+# Space
 Space shooter PC game with unreal engine.\
 Unreal engine으로 만든 Space 슈터 게임입니다.
 
